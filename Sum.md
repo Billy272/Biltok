@@ -1,3 +1,5 @@
+/*sum of values*/
+
 #include <stdio.h>
 
 int main()
